@@ -1,0 +1,11 @@
+/.pydevproject
+/.project
+/.settings
+/*.egg-info
+*.pyc
+*.pyo
+.idea/*
+*.sw*
+.ropeproject/*
+i18n/*.mo
+i18n/*.po~
